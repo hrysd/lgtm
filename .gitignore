@@ -1,0 +1,4 @@
+*.zip
+build
+bower_components
+node_modules
